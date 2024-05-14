@@ -1,0 +1,33 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Hajjjvasaló",
+      "description": "Melegít",
+      "price": "13",
+      "unit": 1000
+      
+    },
+    {
+      "id": 2,
+      "name": "Könyv",
+      "description": "Lapok",
+      "price": "43",
+      "unit": 100
+    },
+    {
+      "id": 3,
+      "name": "Tálca",
+      "description": "Étel hordás",
+      "price": "93",
+      "unit": 100
+    },
+    {
+      "id": 4,
+      "name": "Kenyér",
+      "description": "Fehér",
+      "price": "78",
+      "unit": 134
+    }
+  ]
+}
